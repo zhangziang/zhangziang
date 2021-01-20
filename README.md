@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://blush.design/api/download?shareUri=BMkw0D9pM&s=0~ffdbb4&bg=ffffff&w=300&h=300&fm=png)
-
 <!--
 **zhangziang/zhangziang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
